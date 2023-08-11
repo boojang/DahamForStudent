@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9B9B9B</color>
+    <color name="colorPrimaryDark">#7C7C7C</color>
+    <color name="colorAccent">#EBA796</color>
+    <color name="ledRed">#ff7121</color>
+    <color name="ledYellow">#ffdd63</color>
+    <color name="ledGreen">#55ffe0</color>
+    <color name="ledDefault">#c4c4c4</color>
+    <color name="white">#ffffff</color>
+    <color name="shadowBlack">#0c000000</color>
+    <color name="black">#2f2f2f</color>
+    <color name="black2">#6c6c6c</color>
+    <color name="brown_grey">#7c7c7c</color>
+    <color name="very_light_pink">#ede8e7</color>
+    <color name="black0">#000000</color>
+    <color name="black3">#C6C6C6</color>
+    <color name="chatting">#EDE8E7</color>
+    <color name="coral">#EDA390</color>
+    <color name="coral2">#DD7960</color>
+    <color name="white2">#F4F4F4</color>
+    <color name="chatting_bg">#F9F9F9</color>
+    <color name="highlighter">#F6E4E0</color>
+    <color name="text_darkgray">#7C7C7C</color>
+    <color name="setting_text_color">#4d4d4d</color>
+    \
+</resources>

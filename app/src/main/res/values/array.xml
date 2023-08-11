@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="show_language_array">
+        <item>한국어</item>
+        <item>영어</item>
+    </array>
+    <array name="language_array">
+        <item>ko-KR</item>
+        <item>en-US</item>
+    </array>
+</resources>
